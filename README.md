@@ -17,6 +17,6 @@ Static site for GitHub Pages. No build step.
 
 Search the files for `TODO` and fill in:
 
-- Steam store link of each game (`<slug>/index.html`)
-- Contact email, and a check of every section (`privacy/index.html`)
-- Optional: trailer and screenshots (commented block in each game page)
+- Steam link for Study With Me and 1vs1 once their store pages are live (`<slug>/index.html`)
+- A check of every section of the privacy policy (`privacy/index.html`)
+- Optional: more screenshots (add `<img class="art" ...>` in a game page)
